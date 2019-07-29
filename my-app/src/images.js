@@ -10,6 +10,9 @@ import door9 from './images/door9.png';
 import door10 from './images/door10.png';
 import door11 from './images/door11.png';
 import door12 from './images/door12.png';
+import door13 from './images/door13.png';
+import door14 from './images/door14.png';
+import door15 from './images/door15.png';
 
 const images = [
     door1,
@@ -23,7 +26,10 @@ const images = [
     door9,
     door10,
     door11,
-    door12
+    door12,
+    door13,
+    door14,
+    door15,
 ];
 
 export default images;

@@ -1,6 +1,5 @@
 .navbar {
-  background: #006064;
-  min-height: 70px;
+  background: #788eb3;
   font-size: 18px;
   padding: 20px 0;
   width: 100%;
@@ -19,7 +18,7 @@
 
 .navbar div:first-child {
   letter-spacing: 1px;
-  font-weight: 900;
+  /* font-weight: 900; */
 }
 
 .pipe {
@@ -66,7 +65,7 @@
 @media (min-width: 576px) {
   .navbar {
     display: flex;
-    position: fixed;
+    /* position: absolute; */
     justify-content: space-around;
     font-size: calc(10px + 14 * (100vw - 320px) / 800);
   }

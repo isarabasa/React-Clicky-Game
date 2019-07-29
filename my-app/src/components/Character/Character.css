@@ -2,10 +2,10 @@
   border: 3px solid #d7d7d7;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   cursor: pointer;
-  height: 170px;
   margin: 15px;
   overflow: hidden;
-  width: 170px;
+  height: 150px;
+  width: 150px;
 }
 
 .card:hover {
